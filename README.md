@@ -14,7 +14,7 @@ Now, we need to set the path of training, testing, and validation directories.
 Now, we will start with Data Visualization (plot pie-chart, bar-graph).
 Now, we need to preprocess data (train, test, validation), which includes, rescaling, the size (height, width) of images.
 Now, we need to build our custom CNN (convolutional neural networks) architecture, which will include different (CNN, dropout, polling, flatten, dense) layers.
-Now, check the summary of compile model before we start our training process.
+Now, check the summary of model before we start our training process.
 Now, we need to compile our custom CNN (convolutional neural networks) model. 
 Now, we need to train the model.
 Now, we need to predict the model.
